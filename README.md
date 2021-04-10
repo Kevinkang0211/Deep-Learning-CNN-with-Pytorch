@@ -13,3 +13,11 @@ Annotations provide image properties as well as traffic sign coordinates within 
 
 The files train.csv and test.csv contain the corresponding images and their filename, width,
 height, bounding box and category.
+
+### 執行結果1(No Cropping):
+
+![image](https://user-images.githubusercontent.com/45477381/114275155-ffd45280-9a53-11eb-9e2e-e5e49555de5f.png)
+
+### 執行結果1(With Cropping):
+
+![image](https://user-images.githubusercontent.com/45477381/114275178-15497c80-9a54-11eb-8192-e28c043f5a76.png)
